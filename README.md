@@ -91,6 +91,7 @@
         <h2>Ganhe dinheiro extra com o PixPlus</h2>
         <p>Ganhe Pix gratuitamente realizando tarefas no PixPlus!</p>
         <p><a class="button" href="https://play.google.com/store/apps/details?id=app.pix.plus" target="_blank">Baixe Agora no Google Play</a></p>
+        <p><a class="button" href="https://play.google.com/store/apps/details?id=app.pix.plus" target="_blank">Baixe Agora e Ganhe Bônus ✅</a></p>
     </section>
 
     <section>
@@ -123,7 +124,7 @@
         <p>Atualmente, nosso aplicativo oferece diversos tipos de tarefas, como Roleta, Raspadinha, Assistir Vídeos, Quiz e muito mais. Escolha QUALQUER tarefa e comece a coletar moedas!</p>
         <p>Se você já gosta de jogar jogos no seu celular, o PixPlus é perfeito para você, pois você ganha dinheiro simplesmente usando-o. Ganhe dinheiro enquanto se diverte.</p>
         <p>Com o PixPlus, você nunca mais precisará se preocupar com falta de dinheiro no bolso!</p>
-        <p><a class="button" href="#">Baixe Agora e Comece a Ganhar 🏆</a></p>
+        <p><a class="button" href="https://play.google.com/store/apps/details?id=app.pix.plus" target="_blank">Baixe Agora e Comece a Ganhar 🏆</a></p>
     </section>
 
     <section class="telegram-section">
