@@ -90,7 +90,6 @@
     <section>
         <h2>Ganhe dinheiro extra com o PixPlus</h2>
         <p>Ganhe Pix gratuitamente realizando tarefas no PixPlus!</p>
-        <p><a class="button" href="#">Baixe Agora e Ganhe Bônus ✅</a></p>
         <p><a class="button" href="https://play.google.com/store/apps/details?id=app.pix.plus" target="_blank">Baixe Agora no Google Play</a></p>
     </section>
 
