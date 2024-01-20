@@ -91,7 +91,6 @@
         <h2>Ganhe dinheiro extra com o PixPlus</h2>
         <p>Ganhe Pix gratuitamente realizando tarefas no PixPlus!</p>
         <p><a class="button" href="https://play.google.com/store/apps/details?id=app.pix.plus" target="_blank">Baixe Agora no Google Play</a></p>
-        <p><a class="button" href="https://play.google.com/store/apps/details?id=app.pix.plus" target="_blank">Baixe Agora e Ganhe Bônus ✅</a></p>
     </section>
 
     <section>
@@ -104,6 +103,8 @@
             <li>✓ Troque suas moedas por Pix</li>
         </ul>
         <p>E você receberá seu dinheiro na sua conta 😊</p>
+        <!-- Movi o botão para esta seção -->
+        <p><a class="button" href="https://play.google.com/store/apps/details?id=app.pix.plus" target="_blank">Baixe Agora e Ganhe Bônus ✅</a></p>
     </section>
 
     <section>
@@ -131,7 +132,7 @@
         <h2>Participe do Nosso Grupo no Telegram</h2>
         <p>Fique por dentro das novidades, promoções e interaja com a comunidade PixPlus!</p>
         <!-- Movi o URL abaixo para esta seção -->
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr0mEg4b4Xt1x5IN_wVRCEAp5wH38f_8AGy2RTYCTcaZbZ_z7TU2bpUQo&s=10" alt="Telegram Logo">
+        <img src="https://imgur.com/X3iYlsU" alt="Telegram Logo">
         <p><a class="button" href="https://t.me/jons_apps" target="_blank">Participe Agora</a></p>
     </section>
 
