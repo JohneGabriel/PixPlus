@@ -55,13 +55,14 @@
 
         .button {
             display: inline-block;
-            padding: 10px 20px;
-            font-size: 16px;
+            padding: 15px 25px;
+            font-size: 18px;
             background-color: #4CAF50;
             color: #fff;
             text-decoration: none;
-            border-radius: 5px;
+            border-radius: 8px;
             transition: background-color 0.3s;
+            margin: 10px;
         }
 
         .button:hover {
@@ -73,7 +74,7 @@
             color: #fff;
             padding: 1em;
             margin-top: 2em;
-            border-radius: 5px;
+            border-radius: 8px;
         }
     </style>
 </head>
