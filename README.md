@@ -52,13 +52,28 @@
             background-color: #333;
             color: #fff;
         }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .button:hover {
+            background-color: #45a049;
+        }
     </style>
 </head>
 
 <body>
     <header>
         <!-- Substitua o URL abaixo pelo seu logo -->
-        <img src="https://github.com/JohneGabriel/PixPlus-LandingPage-/blob/f6dc61e93f878f6b216a8c2b83907034537a48ce/money-transfer.png" alt="PixPlus Logo">
+        <img src="https://imgur.com/gxk1oB4" alt="PixPlus Logo">
         <h1>PixPlus</h1>
         <p>Jogue, acumule moedas, e transforme diversão em dinheiro real.</p>
     </header>
@@ -66,7 +81,7 @@
     <section>
         <h2>Ganhe dinheiro extra com o PixPlus</h2>
         <p>Ganhe Pix gratuitamente realizando tarefas no PixPlus!</p>
-        <p>Instale o PixPlus agora mesmo e ganhe Bônus ✅</p>
+        <p><a class="button" href="#">Baixe Agora e Ganhe Bônus ✅</a></p>
     </section>
 
     <section>
@@ -99,13 +114,13 @@
         <p>Atualmente, nosso aplicativo oferece diversos tipos de tarefas, como Roleta, Raspadinha, Assistir Vídeos, Quiz e muito mais. Escolha QUALQUER tarefa e comece a coletar moedas!</p>
         <p>Se você já gosta de jogar jogos no seu celular, o PixPlus é perfeito para você, pois você ganha dinheiro simplesmente usando-o. Ganhe dinheiro enquanto se diverte.</p>
         <p>Com o PixPlus, você nunca mais precisará se preocupar com falta de dinheiro no bolso!</p>
-        <p>Então, o que está esperando? Comece a ganhar Pix de graça agora mesmo!</p>
+        <p><a class="button" href="#">Baixe Agora e Comece a Ganhar 🏆</a></p>
     </section>
 
     <footer>
         <!-- Substitua o URL abaixo pela imagem do Telegram -->
-        <img src="https://github.com/JohneGabriel/PixPlus-LandingPage-/blob/f6dc61e93f878f6b216a8c2b83907034537a48ce/Telegram_logo.svg.png" alt="Telegram Logo">
-        <p>&copy; 2024 PixPlus. Todos os direitos reservados. Para mais informações, participe do nosso <a href="https://t.me/jons_apps" target="_blank">grupo no Telegram</a>.</p>
+        <img src="https://imgur.com/X3iYlsU" alt="Telegram Logo">
+        <p>&copy; 2024 PixPlus. Todos os direitos reservados. Para mais informações, participe do nosso <a class="button" href="https://t.me/jons_apps" target="_blank">grupo no Telegram</a>.</p>
     </footer>
 </body>
 
