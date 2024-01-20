@@ -129,12 +129,13 @@
     <section class="telegram-section">
         <h2>Participe do Nosso Grupo no Telegram</h2>
         <p>Fique por dentro das novidades, promoções e interaja com a comunidade PixPlus!</p>
+        <!-- Movi o URL abaixo para esta seção -->
+        <img src="https://imgur.com/X3iYlsU" alt="Telegram Logo">
         <p><a class="button" href="https://t.me/jons_apps" target="_blank">Participe Agora</a></p>
     </section>
 
     <footer>
-        <!-- Substitua o URL abaixo pela imagem do Telegram -->
-        <img src="https://imgur.com/X3iYlsU" alt="Telegram Logo">
+        <!-- Removi a imagem do Telegram daqui -->
         <p>&copy; 2024 PixPlus. Todos os direitos reservados.</p>
     </footer>
 </body>
