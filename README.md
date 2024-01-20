@@ -67,6 +67,14 @@
         .button:hover {
             background-color: #45a049;
         }
+
+        .telegram-section {
+            background-color: #0088cc;
+            color: #fff;
+            padding: 1em;
+            margin-top: 2em;
+            border-radius: 5px;
+        }
     </style>
 </head>
 
@@ -82,6 +90,7 @@
         <h2>Ganhe dinheiro extra com o PixPlus</h2>
         <p>Ganhe Pix gratuitamente realizando tarefas no PixPlus!</p>
         <p><a class="button" href="#">Baixe Agora e Ganhe Bônus ✅</a></p>
+        <p><a class="button" href="https://play.google.com/store/apps/details?id=app.pix.plus" target="_blank">Baixe Agora no Google Play</a></p>
     </section>
 
     <section>
@@ -117,10 +126,16 @@
         <p><a class="button" href="#">Baixe Agora e Comece a Ganhar 🏆</a></p>
     </section>
 
+    <section class="telegram-section">
+        <h2>Participe do Nosso Grupo no Telegram</h2>
+        <p>Fique por dentro das novidades, promoções e interaja com a comunidade PixPlus!</p>
+        <p><a class="button" href="https://t.me/jons_apps" target="_blank">Participe Agora</a></p>
+    </section>
+
     <footer>
         <!-- Substitua o URL abaixo pela imagem do Telegram -->
         <img src="https://imgur.com/X3iYlsU" alt="Telegram Logo">
-        <p>&copy; 2024 PixPlus. Todos os direitos reservados. Para mais informações, participe do nosso <a class="button" href="https://t.me/jons_apps" target="_blank">grupo no Telegram</a>.</p>
+        <p>&copy; 2024 PixPlus. Todos os direitos reservados.</p>
     </footer>
 </body>
 
