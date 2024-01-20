@@ -5,13 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PixPlus - Ganhe Pix Jogando!</title>
     <style>
-        /* Estilos permanecem os mesmos */
         body {
             line-height: 1.6;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
         }
 
         section {
             text-align: center;
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 1em;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
         h2 {
@@ -30,13 +45,20 @@
         img {
             max-width: 100%;
         }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #333;
+            color: #fff;
+        }
     </style>
 </head>
 
 <body>
     <header>
         <!-- Substitua o URL abaixo pelo seu logo -->
-        <img src="https://github.com/JohneGabriel/PixPlus-LandingPage-/blob/31cf523658bad2c044fce91c5a34af1296053d14/money-transfer.png" alt="PixPlus Logo">
+        <img src="https://github.com/JohneGabriel/PixPlus-LandingPage-/blob/f6dc61e93f878f6b216a8c2b83907034537a48ce/money-transfer.png" alt="PixPlus Logo">
         <h1>PixPlus</h1>
         <p>Jogue, acumule moedas, e transforme diversão em dinheiro real.</p>
     </header>
@@ -82,7 +104,7 @@
 
     <footer>
         <!-- Substitua o URL abaixo pela imagem do Telegram -->
-        <img src="URL_DA_IMAGEM_TELEGRAM" alt="Telegram Logo">
+        <img src="https://github.com/JohneGabriel/PixPlus-LandingPage-/blob/f6dc61e93f878f6b216a8c2b83907034537a48ce/Telegram_logo.svg.png" alt="Telegram Logo">
         <p>&copy; 2024 PixPlus. Todos os direitos reservados. Para mais informações, participe do nosso <a href="https://t.me/jons_apps" target="_blank">grupo no Telegram</a>.</p>
     </footer>
 </body>
