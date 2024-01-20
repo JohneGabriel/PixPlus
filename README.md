@@ -36,7 +36,7 @@
 <body>
     <header>
         <!-- Substitua o URL abaixo pelo seu logo -->
-        <img src="URL_DO_SEU_LOGO" alt="PixPlus Logo">
+        <img src="https://github.com/JohneGabriel/PixPlus-LandingPage-/blob/31cf523658bad2c044fce91c5a34af1296053d14/money-transfer.png" alt="PixPlus Logo">
         <h1>PixPlus</h1>
         <p>Jogue, acumule moedas, e transforme diversão em dinheiro real.</p>
     </header>
