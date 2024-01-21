@@ -82,7 +82,7 @@
 <body>
     <header>
         <!-- Substitua o URL abaixo pelo logo do PixPlus -->
-        <img src="https://imgur.com/gxk1oB4" alt="PixPlus Logo">
+        <img src="https://www.imgur.com/gxk1oB4" alt="PixPlus Logo">
         <h1>PixPlus</h1>
         <p>Jogue, acumule moedas, e transforme diversão em dinheiro real.</p>
     </header>
@@ -131,7 +131,7 @@
         <h2>Participe do Nosso Grupo no Telegram</h2>
         <p>Fique por dentro das novidades, promoções e interaja com a comunidade PixPlus!</p>
         <!-- Substitua o URL abaixo pela imagem do Telegram -->
-        <img src="https://imgur.com/X3iYlsU" alt="Telegram Logo">
+        <img src="https://www.flaticon.com/free-icon/telegram_2111646?term=telegram+logo&page=1&position=1&origin=search&related_id=2111646" alt="Telegram Logo">
         <p><a class="button" href="https://t.me/jons_apps" target="_blank">Participe Agora</a></p>
     </section>
 
