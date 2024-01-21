@@ -131,7 +131,7 @@
         <h2>Participe do Nosso Grupo no Telegram</h2>
         <p>Fique por dentro das novidades, promoções e interaja com a comunidade PixPlus!</p>
         <!-- Substitua o URL abaixo pela imagem do Telegram -->
-        <img src="https://www.flaticon.com/free-icon/telegram_2111646?term=telegram+logo&page=1&position=1&origin=search&related_id=2111646" alt="Telegram Logo">
+        <img src="https://pin.it/9lq4Tsidc" alt="Telegram Logo">
         <p><a class="button" href="https://t.me/jons_apps" target="_blank">Participe Agora</a></p>
     </section>
 
