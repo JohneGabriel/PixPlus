@@ -81,8 +81,8 @@
 
 <body>
     <header>
-        <!-- Substitua o URL abaixo pelo logo do PixPlus -->
-        <img src="https://i.ibb.co/8g915Sp/money-transfer.png" alt="PixPlus Logo">
+        <!-- Substitua o URL abaixo pelo seu logo -->
+        <img src="https://imgur.com/gxk1oB4" alt="PixPlus Logo">
         <h1>PixPlus</h1>
         <p>Jogue, acumule moedas, e transforme diversão em dinheiro real.</p>
     </header>
@@ -103,6 +103,7 @@
             <li>✓ Troque suas moedas por Pix</li>
         </ul>
         <p>E você receberá seu dinheiro na sua conta 😊</p>
+        <!-- Movi o botão para esta seção -->
         <p><a class="button" href="https://play.google.com/store/apps/details?id=app.pix.plus" target="_blank">Baixe Agora e Ganhe Bônus ✅</a></p>
     </section>
 
@@ -130,12 +131,13 @@
     <section class="telegram-section">
         <h2>Participe do Nosso Grupo no Telegram</h2>
         <p>Fique por dentro das novidades, promoções e interaja com a comunidade PixPlus!</p>
-        <!-- Substitua o URL abaixo pela imagem do Telegram -->
-        <img src="https://files.fm/thumb.php?i=b9cbb4sjgs" alt="Telegram Logo">
+        <!-- Movi o URL abaixo para esta seção -->
+        <img src="https://imgur.com/X3iYlsU" alt="Telegram Logo">
         <p><a class="button" href="https://t.me/jons_apps" target="_blank">Participe Agora</a></p>
     </section>
 
     <footer>
+        <!-- Removi a imagem do Telegram daqui -->
         <p>&copy; 2024 PixPlus. Todos os direitos reservados.</p>
     </footer>
 </body>
