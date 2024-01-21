@@ -28,10 +28,18 @@
             padding: 1em;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+            font-size: 2em;
         }
 
         h2 {
             color: #333;
+            text-transform: capitalize;
+            font-size: 1.5em;
         }
 
         ul {
@@ -46,16 +54,16 @@
         img {
             max-width: 100%;
             height: auto;
+            border-radius: 8px;
         }
 
-        /* Tamanho específico para o logo */
         #logo {
-            width: 100px; /* Tamanho ajustado para 100px */
+            width: 100px;
         }
 
-        /* Tamanho específico para a imagem do Telegram */
         #telegram-logo {
-            width: 100px; /* Tamanho ajustado para 100px */
+            width: 100px;
+            margin-bottom: 10px;
         }
 
         footer {
@@ -63,6 +71,7 @@
             padding: 1em;
             background-color: #333;
             color: #fff;
+            border-radius: 8px;
         }
 
         .button {
@@ -75,6 +84,7 @@
             border-radius: 8px;
             transition: background-color 0.3s;
             margin: 10px;
+            cursor: pointer;
         }
 
         .button:hover {
@@ -93,7 +103,6 @@
 
 <body>
     <header>
-        <!-- Substitua o URL abaixo pelo logo do PixPlus -->
         <img id="logo" src="money-transfer.png" alt="PixPlus Logo">
         <h1>PixPlus</h1>
         <p>Jogue, acumule moedas, e transforme diversão em dinheiro real.</p>
@@ -119,7 +128,7 @@
     </section>
 
     <section>
-        <h2>Por que escolher o PixPlus?</h2>
+        <h2>Por Que Escolher o PixPlus?</h2>
         <ul>
             <li>✔️ Aplicativo completamente gratuito</li>
             <li>✔️ Fácil de usar!</li>
@@ -132,7 +141,7 @@
     </section>
 
     <section>
-        <h2>Comece a ganhar Pix de graça agora mesmo! 🏆</h2>
+        <h2>Comece a Ganhar Pix de Graça Agora Mesmo! 🏆</h2>
         <p>Atualmente, nosso aplicativo oferece diversos tipos de tarefas, como Roleta, Raspadinha, Assistir Vídeos, Quiz e muito mais. Escolha QUALQUER tarefa e comece a coletar moedas!</p>
         <p>Se você já gosta de jogar jogos no seu celular, o PixPlus é perfeito para você, pois você ganha dinheiro simplesmente usando-o. Ganhe dinheiro enquanto se diverte.</p>
         <p>Com o PixPlus, você nunca mais precisará se preocupar com falta de dinheiro no bolso!</p>
@@ -140,10 +149,9 @@
     </section>
 
     <section class="telegram-section">
+        <img id="telegram-logo" src="Telegram_logo.svg.png" alt="Telegram Logo">
         <h2>Participe do Nosso Grupo no Telegram</h2>
         <p>Fique por dentro das novidades, promoções e interaja com a comunidade PixPlus!</p>
-        <!-- Substitua o URL abaixo pela imagem do Telegram -->
-        <img id="telegram-logo" src="Telegram_logo.svg.png" alt="Telegram Logo">
         <p><a class="button" href="https://t.me/jons_apps" target="_blank">Participe Agora</a></p>
     </section>
 
