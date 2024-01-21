@@ -82,7 +82,7 @@
 <body>
     <header>
         <!-- Substitua o URL abaixo pelo logo do PixPlus -->
-        <img src="https://raw.githubusercontent.com/JohneGabriel/PixPlus-LandingPage-/main/money-transfer.png" alt="PixPlus Logo">
+        <img src="https://i.ibb.co/8g915Sp/money-transfer.png" alt="PixPlus Logo">
         <h1>PixPlus</h1>
         <p>Jogue, acumule moedas, e transforme diversão em dinheiro real.</p>
     </header>
