@@ -45,6 +45,17 @@
 
         img {
             max-width: 100%;
+            height: auto;
+        }
+
+        /* Tamanho específico para o logo */
+        #logo {
+            width: 200px; /* Especifique o tamanho desejado */
+        }
+
+        /* Tamanho específico para a imagem do Telegram */
+        #telegram-logo {
+            width: 150px; /* Especifique o tamanho desejado */
         }
 
         footer {
@@ -83,7 +94,7 @@
 <body>
     <header>
         <!-- Caminho da imagem do logo -->
-        <img src="money-transfer.png" alt="PixPlus Logo">
+        <img id="logo" src="money-transfer.png" alt="PixPlus Logo">
         <h1>PixPlus</h1>
         <p>Jogue, acumule moedas, e transforme diversão em dinheiro real.</p>
     </header>
@@ -99,7 +110,7 @@
     <section class="telegram-section">
         <h2>Participe do Nosso Grupo no Telegram</h2>
         <!-- Caminho da imagem do Telegram -->
-        <img src="Telegram_logo.svg.png" alt="Telegram Logo">
+        <img id="telegram-logo" src="Telegram_logo.svg.png" alt="Telegram Logo">
         <p><a class="button" href="https://t.me/jons_apps" target="_blank">Participe Agora</a></p>
     </section>
 
